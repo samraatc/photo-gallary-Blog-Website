@@ -1,0 +1,51 @@
+<html>
+<body>
+
+<h2> Welcome to this JavaScript </h2>
+
+<script>
+document.write ("Hello JavaScript");
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+*JavaScript* 
+
+JS is a lightweight object-oriented programming language which is used by several websites for scripting the web pages.
+- JS has no connectivity with java programming language.
+
+*Features:*
+
+- It is light-weighted and interpreted language.
+- It is a case-sensitive language.
+- It provides good control to the users over the web browsers.
+- JavaScript is supportable in several operating systems including, windows, MacOS etc.
+- It follows the syntax and structure of the C Programming language.
+
+
+Java Scipt is used to create interactive websites.
+
+- Client Side Validation
+- Dynamic drop-down Menus
+- Displaying Clocks
+- Displaying date and time
+- Displaying Pop-Up windows and dialog boxes.
+
+*Advantages:*
+
+- To make code easy to understand.
+- To avoid the unnecessary code.
